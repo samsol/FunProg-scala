@@ -1,0 +1,15 @@
+compile
+run
+compile
+test
+stylecheck
+styleCheck
+submit sameep.solanki@gmail.com DhsKy7P3Pa
+test
+submit sameep.solanki@gmail.com DhsKy7P3Pa
+styleCheck
+compile
+test
+:quit
+quit
+exit

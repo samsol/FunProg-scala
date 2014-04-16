@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mBalanceSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- '(if (zero? x) max (/ 1 x))' is balanced.[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'I told him ...' is balanced.[0m[0m
+[0m[[0minfo[0m] [0m[32m- ':-)' is unbalanced.[0m[0m
+[0m[[0minfo[0m] [0m[32m- Counting is not enough.[0m[0m

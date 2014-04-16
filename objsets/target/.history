@@ -1,0 +1,18 @@
+compile
+run
+compile
+test
+styleCheck
+eit
+exit
+compile
+test
+styleCheck
+test
+compile
+styleCheck
+test
+submit sameep.solanki@gmail.com DhsKy7P3Pa
+compile
+styleCheck
+exit
